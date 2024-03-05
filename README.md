@@ -30,16 +30,16 @@ Em suma, estamos comprometidos em oferecer uma solução de atendimento para o P
 - **Testes:** Pytest é utilizado para a realização de testes automatizados, garantindo a qualidade e estabilidade de nosso código.
 
 # 🚀 Temas Abordados:
-**1-** Gerenciamento de Configuração em DevOps com Jira, Confluence e Gitlab; <br>
-**2-** Fluxos de Trabalho (workflows) com Git; <br>
-**3-** Contêineres com Docker; <br>
-**4-** Orquestração de Contêineres com Docker Compose; <br>
-**5-** Testes Unitários com PyUnit; <br>
-**6-** Introdução ao CI/CD com Gitlab CI/CD; <br>
-**7-** DevSecOps com Gitlab CI/CD e Semgrep; <br>
-**8-** Infraestrutura como Código com Terraform by Hashicorp; <br>
-**9-** Contêineres na AWS com ECS; <br>
-**10-** Desenvolvimento Cloud Native com Metodologia Twelve-Factor App. <br>
+**-** Gerenciamento de Configuração em DevOps com Jira, Confluence e Gitlab; <br>
+**-** Fluxos de Trabalho (workflows) com Git; <br>
+**-** Contêineres com Docker; <br>
+**-** Orquestração de Contêineres com Docker Compose; <br>
+**-** Testes Unitários com PyUnit; <br>
+**-** Introdução ao CI/CD com Gitlab CI/CD; <br>
+**-** DevSecOps com Gitlab CI/CD e Semgrep; <br>
+**-** Infraestrutura como Código com Terraform by Hashicorp; <br>
+**-** Contêineres na AWS com ECS; <br>
+**-** Desenvolvimento Cloud Native com Metodologia Twelve-Factor App. <br>
 
 # 🌐 Integrantes do Projeto:
 <table>
